@@ -58,3 +58,29 @@ h1{
     align-items: center;
     color: #18191F;
 }
+
+.button-3 {    
+    background-color: #FFBD12;
+    color: #18191F;
+    width: 90%;
+    height: 50px;
+    border: 2px solid #18191F;
+    box-sizing: border-box;
+    border-radius: 16px;
+    margin: 10px;
+}
+
+.user{
+    width: 90%;
+    height: 56px;
+    left: 24px;
+    top: 88px;
+    border: 2px solid  #18191F;
+    box-sizing: border-box;
+    border-radius: 16px;
+    margin: 10px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
